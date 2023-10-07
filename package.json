@@ -1,0 +1,26 @@
+{
+  "name": "php-conf-2023-slide",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.43.5",
+    "@slidev/theme-apple-basic": "^0.20.0",
+    "@slidev/theme-bricks": "^0.0.2",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "slidev-theme-eloc": "^1.0.2",
+    "slidev-theme-penguin": "^2.1.0",
+    "slidev-theme-vuetiful": "^0.3.1"
+  },
+  "volta": {
+    "node": "18.18.0"
+  },
+  "devDependencies": {
+    "@iconify-json/logos": "^1.1.37",
+    "@iconify-json/twemoji": "^1.1.12"
+  }
+}
