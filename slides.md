@@ -33,7 +33,7 @@ PHP Conference Japan 2023
   <a href="https://github.com/yud0uhu" mr-4><logos-github-icon mr-1/>GitHub</a>
   <a href="https://twitter.com/yud0uhu">
     <div style="display: flex; align-items: center;">
-    <img src="xLogo.svg" alt="Xロゴ" style="width: 20px; height: auto; margin-right: 10px;">
+    <img src="/x-logo.svg" alt="Xロゴ" style="width: 20px; height: auto; margin-right: 10px;">
     <text>@yud0uhu</text>
     </div>
   </a>
@@ -46,11 +46,11 @@ PHP Conference Japan 2023
 - 趣味 : 映画鑑賞・旅行・アニメ・おいしいもの巡り・趣味開発 etc
 
 <div class="flex items-center space-x-4">
-    <img src="pafe.jpg" alt="夜パフェ" class="w-56 h-auto">
-    <!-- <img src="tukemen.jpg" alt="つけ麺" class="w-48 h-auto"> -->
-    <img src="ramen.jpg" alt="ラーメン" class="w-32 h-auto">
-    <img src="hack.jpg" alt="ハック" class="w-48 h-auto">
-    <img src="dmmtv.png" alt="DMMTV" class="w-36 h-auto">
+    <img src="/pafe.jpg" alt="夜パフェ" class="w-56 h-auto">
+    <!-- <img src="/tukemen.jpg" alt="つけ麺" class="w-48 h-auto"> -->
+    <img src="/ramen.jpg" alt="ラーメン" class="w-32 h-auto">
+    <img src="/hack.jpg" alt="ハック" class="w-48 h-auto">
+    <img src="/dmmtv.png" alt="DMMTV" class="w-36 h-auto">
 </div>
 
 
@@ -72,7 +72,7 @@ layout: center
   - 「**LT**」の文化を知る
 
 <div class="flex items-center space-x-4">
-  <img src="cistLTLogoSvg.svg" alt="cistLTロゴ" class="w-64">
+  <img src="/cist-lt-logo.svg" alt="cistLTロゴ" class="w-64">
 </div>
 
 ---
@@ -94,12 +94,12 @@ layout: center
   etc -->
 
 <div class="grid grid-cols-2 gap-2">
-    <img src="perl.png" alt="perl" class="h-32">
-    <img src="furait.png" alt="furait" class="h-32">
-    <img src="momiji_lt.png" alt="もみじlt" class="h-32">
-    <img src="zii_local.png" alt="zli_local" class="h-32">
-    <img src="yuruhako.png" alt="ゆるはこ" class="h-32">
-    <img src="yuruchitose.png" alt="yuruchitose" class="h-32">
+    <img src="/perl.png" alt="perl" class="h-32">
+    <img src="/furait.png" alt="furait" class="h-32">
+    <img src="/momiji_lt.png" alt="もみじlt" class="h-32">
+    <img src="/zii_local.png" alt="zli_local" class="h-32">
+    <img src="/yuruhako.png" alt="ゆるはこ" class="h-32">
+    <img src="/yuruchitose.png" alt="yuruchitose" class="h-32">
 </div>
 
 
@@ -121,30 +121,30 @@ layout: center
 
 <div class="grid grid-cols-2 gap-2">
     <div class="flex items-center">
-        <img src="oscLogo.png" alt="oscLogo" class="w-50">
+        <img src="/oscLogo.png" alt="oscLogo" class="w-50">
     </div>
     <div class="flex items-center">
-        <img src="sec_mini_2019.png" alt="sec_mini_2019" class="w-50">
+        <img src="/sec_mini_2019.png" alt="sec_mini_2019" class="w-50">
     </div>
     <div class="flex items-center">
-        <img src="mh4y.png" alt="mh4y" class="w-50">
+        <img src="/mh4y.png" alt="mh4y" class="w-50">
     </div>
     <div class="flex items-center">
-        <img src="janog50.png" alt="janog50" class="w-50">
+        <img src="/janog50.png" alt="janog50" class="w-50">
     </div>
     <div class="flex items-center">
-        <img src="codeblue.jpeg" alt="codeblue" class="w-50">
+        <img src="/codeblue.jpeg" alt="codeblue" class="w-50">
     </div>
     <div class="flex items-center">
-        <img src="gisyo13.png" alt="gisyo13" class="w-30">
+        <img src="/gisyo13.png" alt="gisyo13" class="w-30">
     </div>
 </div>
 
 <!-- <div style="display: flex; align-items: center;">
-    <img src="oscLogo.png" alt="oscLogo" style="width: auto; height:100px; margin-right: 20px;">
-    <img src="mh4y.png" alt="mh4y" style="width: auto; height:100px; margin-right: 20px;">
-    <img src="janog50.png" alt="janog50" style="width: auto; height:100px; margin-right: 20px;">
-    <img src="codeblue.jpeg" alt="codeblue" style="width: auto; height:100px; margin-right: 20px;">
+    <img src="/oscLogo.png" alt="oscLogo" style="width: auto; height:100px; margin-right: 20px;">
+    <img src="/mh4y.png" alt="mh4y" style="width: auto; height:100px; margin-right: 20px;">
+    <img src="/janog50.png" alt="janog50" style="width: auto; height:100px; margin-right: 20px;">
+    <img src="/codeblue.jpeg" alt="codeblue" style="width: auto; height:100px; margin-right: 20px;">
 </div> -->
 
 ---
@@ -163,10 +163,10 @@ layout: center
   →複数回、有志によって開かれている勉強会
 
 <div style="display: flex; align-items: center;">
-    <img src="cokonpile.png" alt="colonpile" style="width: auto; height:100px; margin-right: 20px;">
-    <img src="mugen.png" alt="megurolt" style="width: auto; height:100px; margin-right: 20px;">
-    <img src="sumidagawadev.png" alt="sumidagawadev" style="width: auto; height:100px; margin-right: 20px;">
-    <img src="megurolt.png" alt="megurolt" style="width: auto; height:100px; margin-right: 20px;">
+    <img src="/cokonpile.png" alt="colonpile" style="width: auto; height:100px; margin-right: 20px;">
+    <img src="/mugen.png" alt="megurolt" style="width: auto; height:100px; margin-right: 20px;">
+    <img src="/sumidagawadev.png" alt="sumidagawadev" style="width: auto; height:100px; margin-right: 20px;">
+    <img src="/megurolt.png" alt="megurolt" style="width: auto; height:100px; margin-right: 20px;">
 </div>
 
 ---
@@ -202,7 +202,7 @@ layout: center
 layout: center
 ---
 
-![phpconf](fukuoka.jpeg)
+![phpconf](/fukuoka.jpeg)
 
 ---
 layout: statement
@@ -292,7 +292,7 @@ layout: intro
 # 社会人としての取り組み
 
 ## はじめまして！若手エンジニアふんわりLT Night!の開催
-<img src="funwari_dmm.png" alt="ふんわり" style="width: 500px; height: auto;">
+<img src="/funwari_dmm.png" alt="ふんわり" style="width: 500px; height: auto;">
 
 ---
 layout: center
@@ -387,7 +387,7 @@ layout: center
 # 若手ふんわりLT会の開催
 ---
 
-<img src="funwari.jpeg" alt="ふんわり" style="width: 800px; height: auto; margin-right: 10px;">
+<img src="/funwari.jpeg" alt="ふんわり" style="width: 800px; height: auto; margin-right: 10px;">
 
 ---
 layout: center
@@ -412,7 +412,7 @@ layout: intro
 
 ## 場所 ： pixivさんオフィス
 
-<img src="funwari_pixiv.png" alt="ふんわり" style="width: 500px; height: auto; margin-top: 50px;">
+<img src="/funwari_pixiv.png" alt="ふんわり" style="width: 500px; height: auto; margin-top: 50px;">
 
 <!-- --- -->
 <!-- layout: intro -->
@@ -434,7 +434,7 @@ layout: intro
 
 ## 場所 : 札幌市民交流プラザ クリエイティブスタジオ
 
-<img src="phpdo_conf_logo.png" alt="PHP Conference Hokkaido 20242024" style="width: 500px; height: auto; margin-top: 50px;">
+<img src="/phpdo_conf_logo.png" alt="PHP Conference Hokkaido 20242024" style="width: 500px; height: auto; margin-top: 50px;">
 
 ---
 layout: intro
@@ -446,4 +446,4 @@ layout: intro
 
 ## 場所 : 札幌シェアオフィスBYYARD
 
-<img src="phpdo_conf_yasai.png" alt="全然野菜" style="width: 500px; height: auto; margin-top: 50px;">(※非公式)
+<img src="/phpdo_conf_yasai.png" alt="全然野菜" style="width: 500px; height: auto; margin-top: 50px;">(※非公式)
