@@ -12,10 +12,11 @@ jobs:
         run: yarn install
       - name: Build
         run: yarn run build -- --out docs
+      - name: Create .nojekyll
+        run: touch docs/.nojekyll
       - name: Deploy pages
         uses: crazy-max/ghaction-github-pages@v2
         with:
-          target_branch: gh-pages
           build_dir: docs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
