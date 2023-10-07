@@ -190,7 +190,7 @@ layout: center
 
 ## 社会人で参加する主なカンファレンス
 
-- <text class="text-pink-500">Rust Toky3 2023 ☜ 運営スタッフ</text>
+- <text class="text-pink-500">Rust Tokyo 2023 ☜ 運営スタッフ</text>
 - <text class="text-pink-500">Vue Fes Japan2023 ☜ LT登壇</text>
 - 技術書典
 - <text class="text-pink-500">CODE BLUE ☜ Web編集スタッフ</text>
@@ -232,7 +232,6 @@ layout: center
 
 ## 社会人として、多くの勉強会に参加して得た学び
 
-- 刺激がもらえる・知見がたまる
 - 普段の活動圏の外の人たちと関わるきっかけになる
   - 会社の外でも、他のエンジニアが今どんなことをしているのか？という話が聞ける
 
