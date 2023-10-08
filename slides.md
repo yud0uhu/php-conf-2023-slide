@@ -72,7 +72,9 @@ layout: center
   - 「**LT**」の文化を知る
 
 <div class="flex items-center space-x-4">
+ <div class="flex items-center ml-20">
   <img src="/cist-lt-logo.svg" alt="cistLTロゴ" class="w-64">
+ </div>
 </div>
 
 ---
@@ -160,14 +162,22 @@ layout: center
 - めぐろLT
 - 隅田川.dev -->
   <br />
-  →複数回、有志によって開かれている勉強会
 
-<div style="display: flex; align-items: center;">
-    <img src="/cokonpile.png" alt="colonpile" style="width: auto; height:100px; margin-right: 20px;">
-    <img src="/mugen.png" alt="megurolt" style="width: auto; height:100px; margin-right: 20px;">
-    <img src="/sumidagawadev.png" alt="sumidagawadev" style="width: auto; height:100px; margin-right: 20px;">
-    <img src="/megurolt.png" alt="megurolt" style="width: auto; height:100px; margin-right: 20px;">
+<div class="grid grid-cols-2 gap-2">
+    <div class="flex items-center">
+        <img src="/cokonpile.png" alt="colonpile" class="h-40">
+    </div>
+     <div class="flex items-center">
+        <img src="/mugen.png" alt="megurolt" s class="h-40">
+    </div>
+     <div class="flex items-center">
+        <img src="/sumidagawadev.png" alt="sumidagawadev"  class="h-40">
+    </div>
+     <div class="flex items-center">
+        <img src="/megurolt.png" alt="megurolt" class="h-40">
+    </div>
 </div>
+  →複数回、有志によって開かれている勉強会 
 
 ---
 layout: center
@@ -291,7 +301,11 @@ layout: intro
 # 社会人としての取り組み
 
 ## はじめまして！若手エンジニアふんわりLT Night!の開催
-<img src="/funwari_dmm.png" alt="ふんわり" style="width: 500px; height: auto;">
+<div class="bottom-10">
+  <div class="flex items-center m-4">
+        <img src="/funwari_dmm.png" alt="ふんわり" class="w-144">
+    </div>
+</div>
 
 ---
 layout: center
@@ -300,6 +314,12 @@ layout: center
 # 若手ふんわりLT会の開催
 
 ## 勉強会運営チームの発足🎉
+
+<div class="bottom-10 w-64 mx-20">
+  <div class="flex items-center">
+    <img src="/1.png" alt="ふんわり">
+  </div>
+</div>
 
 ---
 layout: center
@@ -314,17 +334,13 @@ layout: center
 - 当日は56名の若手エンジニアが参加
   - connpass公開後5分でLT枠、1日で参加枠が埋まった
 
-<div style="text-align: right;">
-    <img src="/1.png" alt="ふんわり" style="width: 200px; height: auto;">
-</div>
-
 ---
 layout: center
 ---
 
 # 〜PHPカンファレンス福岡の廊下にて〜
 
-<div class="absolute bottom-20">
+<div class="absolute bottom-10">
   <span class="font-700">
 「若手エンジニアで合同LT会してみたくない？」
   </span><br />
@@ -345,10 +361,16 @@ layout: center
 - +会場提供をしてくださる方
 - +当日お手伝いに入ってくださった方
 
-<div style="display: flex; align-items: center;">
-    <img src="/kotomin.jpg" alt="kotomin" style="width: auto; height:100px; margin-right: 20px;">
-    <img src="/uutan.jpg" alt="uuta " style="width: auto; height:100px; margin-right: 20px;">
-    <img src="/0yu.jpg" alt="0yu" style="width: auto; height:100px; margin-right: 20px;">
+<div class="grid grid-cols-3">
+  <div class="flex items-center">
+    <img src="/kotomin.jpg" alt="kotomin" class="h-20">
+  </div>
+  <div class="flex items-center">
+    <img src="/uutan.jpg" alt="uutan" class="h-20">
+  </div>
+  <div class="flex items-center">
+    <img src="/0yu.jpg" alt="0yu" class="h-20">
+  </div>
 </div>
 
 ---
@@ -420,8 +442,11 @@ layout: intro
 ## 時 : 2023年10月20日(金)
 
 ## 場所 ： pixivさんオフィス
-
-<img src="/funwari_pixiv.png" alt="ふんわり" style="width: 500px; height: auto; margin-top: 50px;">
+<div class="bottom-10">
+  <div class="flex items-center">
+        <img src="/funwari_pixiv.png" alt="ふんわり" class="w-144 m-4">
+    </div>
+</div>
 
 <!-- --- -->
 <!-- layout: intro -->
@@ -442,8 +467,11 @@ layout: intro
 ## 時 : 2024年1月12日(金)、1月13日(土)
 
 ## 場所 : 札幌市民交流プラザ クリエイティブスタジオ
-
-<img src="/phpdo_conf_logo.png" alt="PHP Conference Hokkaido 20242024" style="width: 500px; height: auto; margin-top: 50px;">
+<div class="bottom-10">
+  <div class="flex items-center">
+        <img src="/phpdo_conf_logo.png" alt="PHP Conference Hokkaido" class="w-144 m-4">
+    </div>
+</div>
 
 ---
 layout: intro
@@ -454,5 +482,8 @@ layout: intro
 ## 時 : 2023年1月11日(木)
 
 ## 場所 : 札幌シェアオフィスBYYARD
-
-<img src="/phpdo_conf_yasai.png" alt="全然野菜" style="width: 500px; height: auto; margin-top: 50px;">(※非公式)
+<div class="bottom-10">
+  <div class="flex items-center">
+        <img src="/phpdo_conf_yasai.png" alt="全然野菜" class="w-144 m-4">
+    </div>
+</div>(※非公式)
