@@ -314,6 +314,10 @@ layout: center
 - 当日は56名の若手エンジニアが参加
   - connpass公開後5分でLT枠、1日で参加枠が埋まった
 
+<div style="text-align: right;">
+    <img src="/1.png" alt="ふんわり" style="width: 200px; height: auto;">
+</div>
+
 ---
 layout: center
 ---
@@ -337,9 +341,15 @@ layout: center
 
 ## 運営メンバー
 
-- コアスタッフは3名の若手エンジニア（23卒2名、21卒1名）
+- コアスタッフは3名の若手エンジニア（21卒1名、23卒2名）
 - +会場提供をしてくださる方
 - +当日お手伝いに入ってくださった方
+
+<div style="display: flex; align-items: center;">
+    <img src="/kotomin.jpg" alt="kotomin" style="width: auto; height:100px; margin-right: 20px;">
+    <img src="/uutan.jpg" alt="uuta " style="width: auto; height:100px; margin-right: 20px;">
+    <img src="/0yu.jpg" alt="0yu" style="width: auto; height:100px; margin-right: 20px;">
+</div>
 
 ---
 layout: center
